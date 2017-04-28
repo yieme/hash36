@@ -1,0 +1,24 @@
+{
+  "name": "hash36",
+  "version": "1.0.0",
+  "description": "Crypto hashes in base36",
+  "main": "index.js",
+  "dependencies": {
+    "1636": "^1.0.0",
+    "hasha": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yieme@github.com/yieme/hash36.git"
+  },
+  "author": "Yieme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yieme/hash36/issues"
+  },
+  "homepage": "https://github.com/yieme/hash36#readme"
+}
